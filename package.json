@@ -1,6 +1,6 @@
 {
   "name": "area-calculator-matt",
-  "version": "3.0.0",
+  "version": "2.0.0",
   "description": "This is a very simple and basic Area Calculator made with JavaScript. THis can calculate the area of a ectangle, square, circle, triangle and parallelogram",
   "main": "areaCalculator.js",
   "scripts": {
